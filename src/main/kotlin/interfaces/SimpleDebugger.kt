@@ -1,4 +1,4 @@
-package me.vaan
+package me.vaan.interfaces
 
 
 interface SimpleDebugger {
